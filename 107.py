@@ -1,2 +1,2 @@
 sandy=[int(s) for s in input().split()]
-print((san[0]*san[1])//san[2])
+print((sandy[0]*sandy[1])//sandy[2])
