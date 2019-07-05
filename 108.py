@@ -1,0 +1,6 @@
+z1,z2=input().split()
+z1=int(z1)
+z2=int(z2)
+m=list(map(int,input().split()))
+m.sort()
+print(m[z2-1])
